@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.swp
+*.swo
+.DS_Store
+.codex
+best_score.txt
+web/node_modules/
